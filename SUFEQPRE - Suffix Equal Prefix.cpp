@@ -1,7 +1,5 @@
 
-
-// Tanbir Ahmed  << RiBNAT >>       //
-// University of Barisal, Bangladesh  //
+//Problem Link: https://www.spoj.com/problems/SUFEQPRE/
 
 
 #include<bits/stdc++.h>
